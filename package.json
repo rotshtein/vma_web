@@ -2,7 +2,7 @@
   "name": "vma_web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rotshtein.github.io/vma_web",
+  "homepage": "http://rotshtein.github.io:3000/vma_web",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
